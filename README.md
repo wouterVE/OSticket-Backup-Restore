@@ -1,5 +1,6 @@
 # OSticket-Backup-Restore
-Bash scripts to create backups en execute restore for OSticket.
+Bash scripts to create backups en execute restore for OSticket. 
+
 Based upon https://github.com/DecaTec/Nextcloud-Backup-Restore
 
 # Usage
